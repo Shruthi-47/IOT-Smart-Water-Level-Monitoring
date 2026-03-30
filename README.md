@@ -1,4 +1,4 @@
-# Smart Water Level Monitoring Syste
+# Smart Water Level Monitoring System
 
  An IoT-based system to monitor water levels in tanks and prevent overflow using Arduino and ultrasonic sensors.
 
